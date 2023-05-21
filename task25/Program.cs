@@ -14,7 +14,7 @@ int Resault(int a, int b)
 System.Console.WriteLine("Введите число A:");
 int a = Convert.ToInt32(Console.ReadLine());
 
-System.Console.WriteLine("Введите любое число B:");
+System.Console.WriteLine("Введите число B:");
 int b = Convert.ToInt32(Console.ReadLine());
 
 int exponentResult = Resault(a, b);
